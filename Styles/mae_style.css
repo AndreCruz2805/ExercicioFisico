@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+}
+
+.form-signin{
+    border: solid rgb(177, 14, 177) 1px;
+    border-radius: 25px;
+    padding: 25px;
+    margin-top: 150px;
+    display: inline-block;
+    align-self: center;
+}
+
+.form-floating{
+    margin: 20px;
+}
+
+.btn{
+    width: 90%;
+}
+
+#m-img{
+    align-self: center;
+}

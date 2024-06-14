@@ -1,0 +1,20 @@
+.lead{
+    font-weight: bold;
+}
+
+.display-5{
+    font-weight: bold;
+}
+
+#verde{
+    background-color: #30e758;
+}
+
+#vermelho{
+    background-color: #fc0303;
+}
+
+#resize{
+    height: 300px;
+    width: 500px;
+}

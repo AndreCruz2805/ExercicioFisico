@@ -1,0 +1,33 @@
+.login-container{
+    padding: 0px 20px 0px 20px;
+}
+
+.ola{
+    text-align: center;
+    font-size: 75px;
+    font-weight: bold;
+    font-family: "Open Sans", sans-serif;
+}
+
+.nome{
+    text-align: center;
+    font-size: 28px;
+    font-family: "Open Sans", sans-serif;
+    color: #575a5e;
+}
+
+.linguagens-container{
+    background-color: #0d6efd;
+    height: 200px;
+    width: 100%;
+}
+
+.linguagens{
+    font-size: 40px;
+    text-align: center;
+    padding-bottom: 25px;
+}
+
+a{
+    color: black;
+}

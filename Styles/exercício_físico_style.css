@@ -1,0 +1,10 @@
+.detalhes-container{
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: #30e758;
+}
+
+.card-img-top{
+    width: 100%;
+    height: 350px;
+}
